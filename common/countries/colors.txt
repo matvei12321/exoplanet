@@ -1,0 +1,7 @@
+#reload countrycolors
+
+
+EMP = {
+	color = rgb { 91 112 153 }
+	color_ui = rgb { 91 112 153 }
+}
